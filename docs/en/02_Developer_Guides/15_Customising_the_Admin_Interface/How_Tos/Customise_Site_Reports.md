@@ -35,7 +35,7 @@ Inside the *app/code* folder create a file called *CustomSideReport.php*. Inside
 
 The following example will create a report to list every page on the current site.
 
-###CustomSideReport.php
+### CustomSideReport.php
 
 ```php
 use SilverStripe\Reports\Report;
